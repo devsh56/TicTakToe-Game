@@ -1,0 +1,14 @@
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.exe
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.deps.json
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.runtimeconfig.json
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.dll
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.pdb
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.dll
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\refint\MyDotNetApp.dll
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.pdb
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\Dev\Downloads\TicTakToe\MyDotNetApp\obj\Debug\net9.0\ref\MyDotNetApp.dll
